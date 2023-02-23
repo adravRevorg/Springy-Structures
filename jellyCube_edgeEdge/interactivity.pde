@@ -1,0 +1,6 @@
+
+
+void mousePressed(){
+  addCube();
+}
+      
